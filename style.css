@@ -1819,14 +1819,22 @@
   
   
   
-  .all{
+/*  .all{
     display: none;
   }
   
   .error{
     text-align: center;
   }
-  
+  */
 
+.all-error{
+    display: none;
+  }
 
+  .error{
+   padding: 10px;
+   text-align: center;
+   justify-content: center;
+  }
   
