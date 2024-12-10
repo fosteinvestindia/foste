@@ -1828,7 +1828,7 @@
   }
   
 
-body .all-error{
+#all-error{
     display: none;
   }
 
