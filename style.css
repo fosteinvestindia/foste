@@ -1838,6 +1838,6 @@
    justify-content: center;
   }
   
-#top{
+body #top{
  display: none;
 }
